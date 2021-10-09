@@ -1,0 +1,24 @@
+table {
+    font-size: 35px;
+    
+    width: 100px;
+    margin: auto;
+}
+img {
+    display: block;
+    margin: auto;
+    border-radius: 100%;
+    width: 350px;
+    height: 300px;
+
+}
+td {
+    border-bottom: 2px solid black;
+}
+h1 {
+    text-align: center;
+}
+.table_l, .table_r {
+    width: 360px;
+    box-shadow: 10px 5px 5px red;
+}
